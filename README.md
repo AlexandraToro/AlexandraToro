@@ -10,8 +10,7 @@
   - [Тест-кейсы]()
   - [Mind maps]()
   - [Баг-репорты]()
-* Коллекция в Postman
-  - [Название проекта](https://github.com/AlexandraToro/API.git)
+* [Коллекции в Postman](https://github.com/AlexandraToro/API.git)
 * SQL запросы
   - [Название проекта]()
 
