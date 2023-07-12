@@ -1,9 +1,9 @@
-### Всем привет 👋
-Меня зовут Торопова Александра и я QA - инженер. 
+# Привет 👋
+### Меня зовут Торопова Александра и я QA - инженер. 
 
-## [Мое резюме](https://drive.google.com/file/d/1_AHPvpmBrqK4YdQVMfR2QfKFyKLPN8n5/view?usp=sharing)
+# [Мое резюме](https://drive.google.com/file/d/1_AHPvpmBrqK4YdQVMfR2QfKFyKLPN8n5/view?usp=sharing)
 
-## Мое портфолио 	:dizzy:
+# Мое портфолио 	:dizzy:
 
 * Тестовая документация
   - [Чек-листы](https://drive.google.com/drive/folders/1Cm1Ois7vymcmhgQDxGJ4PIOMIUj3RKhl?usp=sharing)
@@ -12,12 +12,12 @@
 * [Коллекции в Postman](https://github.com/AlexandraToro/API.git)
 * [SQL запросы](https://github.com/AlexandraToro/sql.git)
 
-## Инструменты и технологии
+# Инструменты и технологии
 
-Ручное тестирование | Web - тестирование | Mobile -тестирование | Postman | SoapUI |
-Charles Proxy | Git | Linux | Docker | VirtualBox | Python |
-Pytest | Selenium | JSON | XML | HTML5 | CSS3 |
-Bash | Agile | Scrum | Kanban | Swagger | TMS
+### Ручное тестирование | Web - тестирование | Mobile -тестирование | Postman | SoapUI |
+### Charles Proxy | Git | Linux | Docker | VirtualBox | Python |
+### Pytest | Selenium | JSON | XML | HTML5 | CSS3 |
+### Bash | Agile | Scrum | Kanban | Swagger | TMS
 
 <!--
 **AlexandraToro/AlexandraToro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
