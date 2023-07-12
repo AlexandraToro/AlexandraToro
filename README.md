@@ -10,8 +10,7 @@
   - [Тест-кейсы](https://drive.google.com/drive/folders/1VG9YJ2Ao23tUx0bwwS74_TBufQCXRak0?usp=sharing)
   - [Баг-репорты](https://drive.google.com/drive/folders/1FbjB5Kb56Fn5JK1uPN7ICWS7SYqERA8R?usp=sharing)
 * [Коллекции в Postman](https://github.com/AlexandraToro/API.git)
-* SQL запросы
-  - [Название проекта](https://github.com/AlexandraToro/sql.git)
+* [SQL запросы](https://github.com/AlexandraToro/sql.git)
 
 ## Инструменты и технологии
 
